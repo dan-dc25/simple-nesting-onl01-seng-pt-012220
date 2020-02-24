@@ -125,4 +125,4 @@ def adding_to_dennis
 end
 
 
-puts programmer_hash["grace_hopper"]
+programmer_hash["grace_hopper"]
