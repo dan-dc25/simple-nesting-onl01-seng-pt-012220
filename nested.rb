@@ -16,6 +16,7 @@ def hopper
         }
      }
 
+programmer_hash["grace_hopper"]
 
 end
 
@@ -123,6 +124,3 @@ def adding_to_dennis
      }
 
 end
-
-
-programmer_hash["grace_hopper"]
